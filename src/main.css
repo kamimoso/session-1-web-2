@@ -3,7 +3,10 @@
   padding: 0;
   box-sizing: border-box;
 }
-.h1 {
+p {
   margin: 0 auto;
   text-align: center;
+  background-color: red;
+  font-weight: bold;
+  padding: 100px;
 }
